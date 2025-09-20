@@ -1,0 +1,3 @@
+[workspace]
+resolver = "3"
+members = ["cfloader", "cfloader-ffi", "cfloader-tools"]
